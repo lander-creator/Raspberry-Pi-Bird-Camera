@@ -7,6 +7,7 @@ The videos are stored on an external storage (USB stick). You can also connect t
 ## Components
 
 * Raspberry Pi 4b with Raspberry Pi OS (previously called Raspbian)
+* A 16GB or larger microSD card.
 * Pi NoIR Camera V2
 * hc-sr501 pir motion sensor
 * off grid solar system:
