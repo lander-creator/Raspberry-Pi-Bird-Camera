@@ -15,5 +15,5 @@ The videos are stored on an external storage (USB stick). You can also connect t
   * Mighty Max Battery ML15-12 12V 15AH
   * USB Type-C to USB-A 2.0 Male Cable
 
-# The fully developed and detailed project can be found in the wiki.
+## The fully developed and detailed project can be found in the wiki.
 [BirdBox Wiki](https://github.com/lander-creator/Raspberry-Pi-Bird-Camera/wiki)
