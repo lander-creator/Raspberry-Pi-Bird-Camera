@@ -9,4 +9,12 @@ The videos are stored on an external storage (USB stick). You can also connect t
 * Raspberry Pi 4b with Raspberry Pi OS (previously called Raspbian)
 * Pi NoIR Camera V2
 * hc-sr501 pir motion sensor
-** c
+
+- off grid solar system
+* Newpowa 50W Mono Solar Panel 50 Watts Monocrystalline
+* Solar Charge Controller
+* Mighty Max Battery ML15-12 12V 15AH
+* usb A to usb C cable
+
+# The fully developed and detailed project can be found in the wiki.
+[BirdBox Wiki](https://github.com/lander-creator/Raspberry-Pi-Bird-Camera/wiki)
