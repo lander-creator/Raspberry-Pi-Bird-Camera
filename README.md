@@ -5,3 +5,4 @@ When the PIR sensor detects a bird, the camera starts recording 5 minutes of vid
 The videos are stored on an external storage (USB stick). You can also connect to the bird box WiFi hotspot and play and / or download the videos.
 
 ## Components
+
